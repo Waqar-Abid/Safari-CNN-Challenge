@@ -1,6 +1,6 @@
 
 
-# 🦁 Safari CNN Challenge - Animal Image Classifier
+# 🦁 WildNet Animal Image Classifier 
 
 This project implements a Convolutional Neural Network (CNN) using PyTorch to classify African animals (e.g., Lion, Elephant, Zebra, Giraffe) based on images. The model is trained and evaluated on a custom dataset.
 
