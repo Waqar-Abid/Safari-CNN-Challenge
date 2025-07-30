@@ -47,7 +47,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-- Open: `Safari CNN Challenge.ipynb`  
+- Open: `WildNet Animal Image Classifier.ipynb`  
 - Run all cells sequentially to train the model
 
 ---
@@ -74,7 +74,7 @@ You can later load this model for inference.
 ## 🙋‍♂️ Author
 
 **Waqar Abid**  
-Safari CNN Challenge 
+WildNet Animal Image Classifier 
 
 ---
 
